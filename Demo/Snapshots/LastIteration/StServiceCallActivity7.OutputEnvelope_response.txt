@@ -1,0 +1,1 @@
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/"><s:Body><s:Fault><faultcode>s:Client</faultcode><faultstring xml:lang="en-US">Specify at least one of the flight order parameter values.</faultstring></s:Fault></s:Body></s:Envelope>
